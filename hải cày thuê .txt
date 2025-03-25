@@ -5,12 +5,12 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/daucobonhi/Ui-Redz-V
          Title = "HAI-CAY-THUE-HUB",
          Animation = "By: Hải Cày Thuê"
          },
-        Key = {12092010}
-        KeySystem = true,
-        Title = "Dán mẹ vào đây",
+        Key = {
+        KeySystem = false,
+        Title = "",
         Description = "",
         KeyLink = "",
-        Keys = {"12092010"},
+        Keys = {""},
         Notifi = {
         Notifications = true,
         CorrectKey = "Running the Script...",
